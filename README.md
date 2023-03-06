@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [a](https://www.youtube.com/?feature=ytca)
+- 🔭 I’m currently working on [a](https://github.com/buziusbastus1/guitar-display)
 
 - 🌱 I’m currently learning **React,Three.js and attending https://www.megak.pl/ course**
 
