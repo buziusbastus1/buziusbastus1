@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [guitar-display](https://github.com/buziusbastus1/guitar-display)
 
-- 🌱 I’m currently learning **React,Three.js and attending https://www.megak.pl/ course**
+- 🌱 I’m currently learning **React,TypeScript and attending https://www.megak.pl/ course**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
