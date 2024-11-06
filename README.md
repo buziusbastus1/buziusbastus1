@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [hotel-reservation](https://github.com/buziusbastus1/hotel-reservation)
 
-- 🌱 I’m currently learning **React, TypeScript and attending https://www.megak.pl/ course**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
